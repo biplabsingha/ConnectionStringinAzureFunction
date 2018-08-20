@@ -1,1 +1,1 @@
-# ConnectionStringinAzureFunction_1_X
+# ConnectionStringinAzureFunction_2_X
